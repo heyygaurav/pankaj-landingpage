@@ -1,0 +1,272 @@
+
+.first{
+    background-color:rgb(51, 47, 47);
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+
+}
+.heading{
+    font-size: 30px;
+}
+.buy{
+    font-size: 18px;
+    margin-right: 20px;
+    background-color: rgb(105, 231, 105);
+    height: 30px;
+    width: 120px;
+    margin-top: 8px;
+    border-radius: 20px;
+}
+header{
+    background-color: rgb(105, 231, 105);
+    color: aliceblue;
+    padding: 20px;
+    font-family: cursive;
+}
+header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: medium;
+}
+header nav h2{
+    color: black;
+    font-size: 60px;
+}
+header nav li{
+    color: aliceblue;
+    font-size:20px ;
+}
+div.zero{
+    margin-top:-20px;
+    background-color: rgb(51, 47, 47);
+    background-image: url(https://muffingroup.com/blog/wp-content/uploads/2021/03/gr.jpg);
+}
+div.one{
+   text-align: center;
+   font-size: 20px;
+   background-color: rgb(72, 68, 68);
+   box-sizing: content-box;
+   padding: 10px;
+   margin-left: 42%;
+   margin-right: 58%;
+   justify-content: space-between;
+   border-radius: 20px;
+   margin-top: 20px;
+   color: aliceblue;
+   width:180px ;
+   font-family: cursive;
+}
+
+div.two{
+    text-align: center;
+   font-size: 25px;
+   background-color: rgb(72, 68, 68);
+   box-sizing: content-box;
+   padding: 10px;
+   margin-left: 480px;
+   margin-right: 500px;
+   margin-top: 20px;
+   border-radius: 20px;
+   color: aliceblue;
+   font-family: cursive;
+   width: 350px;
+}
+div.three{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+    box-sizing: content-box;
+    background-color: rgb(72, 68, 68);
+    border-radius: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+div.four{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    justify-content: space-around;
+    padding: 40px;
+}
+button{
+    color: black;
+    background-color: rgb(105, 231, 105);
+    font-style: italic;
+    margin: 20px;
+    padding: 20px;
+
+} 
+.zeroimage{
+    margin-left: 100px;
+}
+.five{
+    color: black;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(105,231,105);
+    font-size: 20px;
+    padding: 20px;
+    font-family: cursive;
+}
+.secondzero{
+    background-color: black;
+}
+.six{
+    align-items: center;
+    text-align: center;
+}
+.number{
+    font-size: 120px;
+    color: rgb(105, 231, 105);
+}
+.demo{
+    font-size: 90px;
+    color: aliceblue;
+    margin-top: -75px;
+    font-family: cursive;
+}
+.select{
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -15px;
+}
+.oneframe{
+    border-radius: 40px;
+    margin-left: 15px;
+    background-image: url(https://img.freepik.com/free-photo/artistic-blurry-colorful-wallpaper-background_58702-8379.jpg?semt=ais_hybrid&w=740);
+}
+.oneimg{
+    color: aliceblue;
+    margin-left: 40px;
+    align-items: center;
+    margin-left: 60px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.secondimg{
+    color: aliceblue;
+    margin-left: 550px;
+    align-items: center;
+    margin-top: -30px;
+    font-size: 20px;
+}
+.threeimg{
+    color: aliceblue;
+    margin-left: 900px;
+    align-items: center;
+    margin-top: -30px;
+    font-size: 20px;
+}
+.fourimg{
+    color: aliceblue;
+    margin-left: 40px;
+    align-items: center;
+    margin-left: 60px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.fiveimg{
+    color: aliceblue;
+    margin-left: 550px;
+    align-items: center;
+    margin-top: -30px;
+    font-size: 20px;
+}
+.siximg{
+    color: aliceblue;
+    margin-left: 900px;
+    align-items: center;
+    margin-top: -30px;
+    font-size: 20px;
+}
+.sevenimg{
+    color: aliceblue;
+    margin-left: 40px;
+    align-items: center;
+    margin-left: 60px;
+    margin-top: 20px;
+    font-size: 20px;   
+}
+.eightimg{
+    color: aliceblue;
+    margin-left: 550px;
+    align-items: center;
+    margin-top: -30px;
+    font-size: 20px;
+}
+.nineimg{
+    color: aliceblue;
+    margin-left: 900px;
+    align-items: center;
+    margin-top: -30px;
+    font-size: 20px;
+}
+.fourframe{
+    margin-left:px;
+}
+.tenimg{
+    color: aliceblue; 
+    margin-left: 40px;
+    align-items: center;
+    margin-top: 0px;
+    font-size: 20px;
+}
+.main{
+    align-items: left;
+    text-align: left;
+    font-family: cursive;
+}
+.white{
+    margin-top: 40px;
+    color: aliceblue;
+}
+.black{
+    align-items: flex-start;
+    text-align: left;
+    font-size: 30px;
+}
+.blue{
+    align-items: flex-start;
+     font-size: 50px;
+     width: 600px;
+} 
+.silver{
+    width: 600px;
+}
+.secondwhite{
+    margin-left: 800px;
+    margin-top: -300px;
+}
+footer{
+    background-image: url(https://img.freepik.com/free-vector/neon-green-line-pattern-dark-background_53876-99009.jpg?ga=GA1.1.1940665344.1746463836&semt=ais_hybrid&w=740);
+}
+.onefoot{
+    text-align: center;
+    align-items: center;
+    font-size: 60px;
+    color: aliceblue;
+}
+.twofoot{
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.last{
+    color: aliceblue;
+    margin-top: 100px;
+    align-items: end;
+    text-align: center;
+}
